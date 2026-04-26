@@ -1,6 +1,6 @@
 {
 "@context": "http://www.w3.org/ns/csvw",
-"url": "https://raw.githubusercontent.com/TU_USUARIO/TOGETHER-phenotype-sample/main/TOGETHER_phenotype_sample.csv",
+"url": "https://raw.githubusercontent.com/anaellopeznovo-maker/TOGETHER-phenotype-sample/refs/heads/main/TOGETHER_phenotype_sample.csv",
 "dc:title": "Synthetic phenotypic sample for the TOGETHER cohort",
 "dcat:keyword": ["phenotype", "clinical data", "TOGETHER", "WES", "RNAseq"],
 "tableSchema": {
