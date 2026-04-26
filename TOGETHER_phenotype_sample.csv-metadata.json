@@ -1,0 +1,65 @@
+{
+"@context": "http://www.w3.org/ns/csvw",
+"url": "https://raw.githubusercontent.com/TU_USUARIO/TOGETHER-phenotype-sample/main/TOGETHER_phenotype_sample.csv",
+"dc:title": "Synthetic phenotypic sample for the TOGETHER cohort",
+"dcat:keyword": ["phenotype", "clinical data", "TOGETHER", "WES", "RNAseq"],
+"tableSchema": {
+"columns": [
+{
+"name": "Patient_ID",
+"titles": "Patient identifier",
+"description": "Unique anonymized identifier assigned to each patient",
+"datatype": "string"
+},
+{
+"name": "Sample_ID",
+"titles": "Sample identifier",
+"description": "Unique identifier for each biological sample",
+"datatype": "string"
+},
+{
+"name": "Tissue_Type",
+"titles": "Tissue type",
+"description": "Type of tissue from which the sample was obtained (e.g., tumour or normal)",
+"datatype": "string"
+},
+{
+"name": "Sex",
+"titles": "Biological sex",
+"description": "Sex of the patient (Male/Female)",
+"datatype": "string"
+},
+{
+"name": "Age",
+"titles": "Age at sampling",
+"description": "Age of the patient at the time of sample collection (years)",
+"datatype": "integer"
+},
+{
+"name": "Sample_Preservation",
+"titles": "Sample preservation method",
+"description": "Method used to preserve the biological sample",
+"datatype": "string"
+},
+{
+"name": "Anatomical_Location",
+"titles": "Anatomical location",
+"description": "Anatomical site from which the sample was collected",
+"datatype": "string"
+},
+{
+"name": "Family_History_Cancer",
+"titles": "Family history of cancer",
+"description": "Indicates whether the patient has a family history of cancer (Yes/No)",
+"datatype": "string"
+},
+{
+"name": "MMR_IHC_status",
+"titles": "MMR IHC status",
+"description": "Mismatch repair protein status determined by immunohistochemistry",
+"datatype": "string"
+}
+]
+}
+}
+

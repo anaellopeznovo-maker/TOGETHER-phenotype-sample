@@ -1,0 +1,39 @@
+Patient_ID,Sample_ID,Tissue_Type,Sex,Age,Sample_Preservation,Anatomical_Location,Family_History_Cancer,MMR_IHC_status
+SYNTH_PATIENT_001,SYNTH_SAMPLE_001_N,Normal,Male,26,Flash Frozen,Ascending colon,No,MMR-proficient
+SYNTH_PATIENT_001,SYNTH_SAMPLE_001_T,Tumor,Male,26,RNAlater,Ascending colon,No,MMR-proficient
+SYNTH_PATIENT_002,SYNTH_SAMPLE_002_N,Normal,Female,28,RNAlater,Transverse colon,No,MMR-proficient
+SYNTH_PATIENT_002,SYNTH_SAMPLE_002_T,Tumor,Female,28,Flash Frozen,Transverse colon,No,MMR-proficient
+SYNTH_PATIENT_003,SYNTH_SAMPLE_003_N,Normal,Male,30,Flash Frozen,Descending colon,Yes,MMR-proficient
+SYNTH_PATIENT_003,SYNTH_SAMPLE_003_T,Tumor,Male,30,RNAlater,Descending colon,Yes,MMR-proficient
+SYNTH_PATIENT_004,SYNTH_SAMPLE_004_N,Normal,Female,32,RNAlater,Sigmoid colon,No,MMR-proficient
+SYNTH_PATIENT_004,SYNTH_SAMPLE_004_T,Tumor,Female,32,Flash Frozen,Sigmoid colon,No,MMR-proficient
+SYNTH_PATIENT_005,SYNTH_SAMPLE_005_N,Normal,Male,34,Flash Frozen,Rectum,No,MMR-proficient
+SYNTH_PATIENT_005,SYNTH_SAMPLE_005_T,Tumor,Male,34,RNAlater,Rectum,No,MMR-proficient
+SYNTH_PATIENT_006,SYNTH_SAMPLE_006_N,Normal,Female,36,RNAlater,Cecum,Yes,MMR-proficient
+SYNTH_PATIENT_006,SYNTH_SAMPLE_006_T,Tumor,Female,36,Flash Frozen,Cecum,Yes,MMR-proficient
+SYNTH_PATIENT_007,SYNTH_SAMPLE_007_N,Normal,Male,38,Flash Frozen,Ascending colon,No,MMR-proficient
+SYNTH_PATIENT_007,SYNTH_SAMPLE_007_T,Tumor,Male,38,RNAlater,Ascending colon,No,MMR-proficient
+SYNTH_PATIENT_008,SYNTH_SAMPLE_008_N,Normal,Female,40,RNAlater,Transverse colon,No,MMR-proficient
+SYNTH_PATIENT_008,SYNTH_SAMPLE_008_T,Tumor,Female,40,Flash Frozen,Transverse colon,No,MMR-proficient
+SYNTH_PATIENT_009,SYNTH_SAMPLE_009_N,Normal,Male,42,Flash Frozen,Descending colon,Yes,MMR-proficient
+SYNTH_PATIENT_009,SYNTH_SAMPLE_009_T,Tumor,Male,42,RNAlater,Descending colon,Yes,MMR-proficient
+SYNTH_PATIENT_010,SYNTH_SAMPLE_010_N,Normal,Female,44,RNAlater,Sigmoid colon,No,MMR-proficient
+SYNTH_PATIENT_010,SYNTH_SAMPLE_010_T,Tumor,Female,44,Flash Frozen,Sigmoid colon,No,MMR-proficient
+SYNTH_PATIENT_011,SYNTH_SAMPLE_011_N,Normal,Male,46,Flash Frozen,Rectum,No,MMR-proficient
+SYNTH_PATIENT_011,SYNTH_SAMPLE_011_T,Tumor,Male,46,RNAlater,Rectum,No,MMR-proficient
+SYNTH_PATIENT_012,SYNTH_SAMPLE_012_N,Normal,Female,48,RNAlater,Cecum,Yes,MMR-proficient
+SYNTH_PATIENT_012,SYNTH_SAMPLE_012_T,Tumor,Female,48,Flash Frozen,Cecum,Yes,MMR-proficient
+SYNTH_PATIENT_013,SYNTH_SAMPLE_013_N,Normal,Male,50,Flash Frozen,Ascending colon,No,MMR-proficient
+SYNTH_PATIENT_013,SYNTH_SAMPLE_013_T,Tumor,Male,50,RNAlater,Ascending colon,No,MMR-proficient
+SYNTH_PATIENT_014,SYNTH_SAMPLE_014_N,Normal,Female,25,RNAlater,Transverse colon,No,MMR-proficient
+SYNTH_PATIENT_014,SYNTH_SAMPLE_014_T,Tumor,Female,25,Flash Frozen,Transverse colon,No,MMR-proficient
+SYNTH_PATIENT_015,SYNTH_SAMPLE_015_N,Normal,Male,27,Flash Frozen,Descending colon,Yes,MMR-proficient
+SYNTH_PATIENT_015,SYNTH_SAMPLE_015_T,Tumor,Male,27,RNAlater,Descending colon,Yes,MMR-proficient
+SYNTH_PATIENT_016,SYNTH_SAMPLE_016_N,Normal,Female,29,RNAlater,Sigmoid colon,No,MMR-proficient
+SYNTH_PATIENT_016,SYNTH_SAMPLE_016_T,Tumor,Female,29,Flash Frozen,Sigmoid colon,No,MMR-proficient
+SYNTH_PATIENT_017,SYNTH_SAMPLE_017_N,Normal,Male,31,Flash Frozen,Rectum,No,MMR-proficient
+SYNTH_PATIENT_017,SYNTH_SAMPLE_017_T,Tumor,Male,31,RNAlater,Rectum,No,MMR-proficient
+SYNTH_PATIENT_018,SYNTH_SAMPLE_018_N,Normal,Female,33,RNAlater,Cecum,Yes,MMR-proficient
+SYNTH_PATIENT_018,SYNTH_SAMPLE_018_T,Tumor,Female,33,Flash Frozen,Cecum,Yes,MMR-proficient
+SYNTH_PATIENT_019,SYNTH_SAMPLE_019_N,Normal,Male,35,Flash Frozen,Ascending colon,No,MMR-proficient
+SYNTH_PATIENT_019,SYNTH_SAMPLE_019_T,Tumor,Male,35,RNAlater,Ascending colon,No,MMR-proficient
