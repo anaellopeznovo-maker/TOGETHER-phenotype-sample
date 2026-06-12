@@ -7,10 +7,10 @@ The files included in this repository have been generated exclusively for testin
 ## Repository contents
 - `TOGETHER_phenotype_sample.csv`: synthetic phenotype table.
 - `TOGETHER_phenotype_sample.csv-metadata.json`: metadata describing the phenotype variables.
-- `synthetic_epicolon_RNAseq_R1.fastq.gz`: synthetic RNA-seq FASTQ (Read 1).
-- `synthetic_epicolon_RNAseq_R2.fastq.gz`: synthetic RNA-seq FASTQ (Read 2).
-- `synthetic_epicolon_WES_R1.fastq.gz`: synthetic whole-exome sequencing FASTQ (Read 1).
-- `synthetic_epicolon_WES_R2.fastq.gz`: synthetic whole-exome sequencing FASTQ (Read 2).
+- `synthetic_together_RNAseq_R1.fastq.gz`: synthetic RNA-seq FASTQ (Read 1).
+- `synthetic_together_RNAseq_R2.fastq.gz`: synthetic RNA-seq FASTQ (Read 2).
+- `synthetic_together_WES_R1.fastq.gz`: synthetic whole-exome sequencing FASTQ (Read 1).
+- `synthetic_together_WES_R2.fastq.gz`: synthetic whole-exome sequencing FASTQ (Read 2).
 
 ## Disclaimer
 - No real human genomic or phenotypic data are included.
